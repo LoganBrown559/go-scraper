@@ -1,4 +1,4 @@
-# go-scraper
+# Go-Scraper
 > A simple web scraper written in Go, just to try the language.
 
 The goal of this project is to learn and practice Go, also known as Golang, a strong and versatile language
@@ -12,4 +12,7 @@ by building a web scraper with the following specifications:
 3. Parse the HTML to extract relevant information (e.g., titles, links, images).
 4. Display the extracted information in the console.
 
-This will all be via command line, but my hope is to make something customizable and more versatile. I'll update this readme as I go along!
+This will all be via command line, but my hope is to make something more flexible.
+
+For web-scraping, I am going to use Colly, and open source tool meant for scrapers,
+crawlers, and spiders. It seems simple to use, and has very good documentation.
